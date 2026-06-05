@@ -1,7 +1,7 @@
-package com.bnp.springbootjpacurdoperation.controller;
+package com.bnptech.springbootjpacurdoperation.controller;
 
-import com.bnp.springbootjpacurdoperation.entity.Department;
-import com.bnp.springbootjpacurdoperation.service.DepartmentService;
+import com.bnptech.springbootjpacurdoperation.entity.Department;
+import com.bnptech.springbootjpacurdoperation.service.DepartmentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import jakarta.validation.Valid;

@@ -1,7 +1,7 @@
-package com.bnp.springbootjpacurdoperation.service;
+package com.bnptech.springbootjpacurdoperation.service;
 
-import com.bnp.springbootjpacurdoperation.entity.Department;
-import com.bnp.springbootjpacurdoperation.repository.DepartmentRepository;
+import com.bnptech.springbootjpacurdoperation.entity.Department;
+import com.bnptech.springbootjpacurdoperation.repository.DepartmentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

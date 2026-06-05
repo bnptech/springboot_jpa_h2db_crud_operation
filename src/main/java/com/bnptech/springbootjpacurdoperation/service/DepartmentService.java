@@ -1,6 +1,6 @@
-package com.bnp.springbootjpacurdoperation.service;
+package com.bnptech.springbootjpacurdoperation.service;
 
-import com.bnp.springbootjpacurdoperation.entity.Department;
+import com.bnptech.springbootjpacurdoperation.entity.Department;
 
 import java.util.List;
 

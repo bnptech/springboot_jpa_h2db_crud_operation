@@ -1,4 +1,4 @@
-package com.bnp.springbootjpacurdoperation.entity;
+package com.bnptech.springbootjpacurdoperation.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

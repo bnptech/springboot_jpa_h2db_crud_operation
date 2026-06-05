@@ -1,7 +1,6 @@
-package com.bnp.springbootjpacurdoperation.repository;
+package com.bnptech.springbootjpacurdoperation.repository;
 
-import com.bnp.springbootjpacurdoperation.entity.Department;
-import jakarta.persistence.Id;
+import com.bnptech.springbootjpacurdoperation.entity.Department;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
