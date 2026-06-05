@@ -3,6 +3,8 @@ This repository is for implementing spring boot crud operation using H2 DB and m
 
 Below are the list of API's implemented as part of springboot jpa and h2db crud operation and the request response paylods.
 
+To test below api endpoints invoke the below services from Postman or Insomnia.
+
 saveDepartment:
 POST: http://localhost:8082/departments
 
